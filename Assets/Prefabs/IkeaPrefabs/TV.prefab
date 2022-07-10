@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &579900196237681050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7007094789009879600}
+  m_Layer: 0
+  m_Name: TV
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7007094789009879600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579900196237681050}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5976872643286472457}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6158856649708302562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7007094789009879600}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.137547
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.891723
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.877306
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+      propertyPath: m_Name
+      value: KS9500 Curved 4K SUHD TV_fbx
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+--- !u!4 &5976872643286472457 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2d425c68eec95ee43b4d5f5cf99d0f2d, type: 3}
+  m_PrefabInstance: {fileID: 6158856649708302562}
+  m_PrefabAsset: {fileID: 0}
